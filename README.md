@@ -10,6 +10,4 @@ A simple stopwatch GUI application implemented in Python using tkinter.
 
 ## Usage
 
-Run the following command in the terminal to start the stopwatch:
-
-`python3 simple-tk-stopwatch.py`
+Run the following command in the terminal to start the stopwatch: `simple-tk-stopwatch`

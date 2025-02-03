@@ -64,8 +64,12 @@ class StopwatchApp:
         seconds = total_seconds % 60
         return f"{hours:02}:{minutes:02}:{seconds:02}"
  
- 
-if __name__ == "__main__":
+
+def main():
     root = tk.Tk()
-    app = StopwatchApp(root)
+    StopwatchApp(root)
     root.mainloop()
+
+
+if __name__ == "__main__":
+    main()
