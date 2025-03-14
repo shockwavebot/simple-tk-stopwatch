@@ -12,4 +12,7 @@ A simple stopwatch GUI application implemented in Python using tkinter.
 
 Install: `pip install simple-tk-stopwatch`
 
+Requirement: `tcl-tk` 
+If local `Python3.13` version is not installed with `tcl-tk` then `brew install python-tk@3.13` might be required
+
 Run the following command in the terminal to start the stopwatch: `simple-tk-stopwatch`
